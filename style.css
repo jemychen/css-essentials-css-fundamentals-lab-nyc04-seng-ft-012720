@@ -13,3 +13,6 @@ image{
   margin: auto;
 }
 
+a:link, a:visited{
+  background: grey;
+}
