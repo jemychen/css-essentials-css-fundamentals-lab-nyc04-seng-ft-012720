@@ -17,3 +17,15 @@ a:link, a:visited{
   background: grey;
 }
 
+figcaption {
+  font-size: 22px;
+}
+
+#featured-property {
+  width: 800px;
+  margin: auto;
+}
+
+#details {
+  display
+}
