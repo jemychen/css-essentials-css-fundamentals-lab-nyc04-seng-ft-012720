@@ -29,3 +29,9 @@ figcaption {
 #details {
   float: left;
 }
+
+div {
+  background: red;
+  margin: auto;
+  width: 25px
+}
