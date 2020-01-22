@@ -4,4 +4,7 @@ body {
   margin: 0;
 }
 
-
+#main-header {
+  /* Your code here! */
+  margin: auto;
+}
